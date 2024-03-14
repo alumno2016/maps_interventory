@@ -17416,7 +17416,7 @@
             return a.appendChild(n), n;
           });
           var i = e.map("map", { zoomControl: !1 });
-          location.hash || i.setView([32.69, 10.55], 3), i.addHash();
+          location.hash || i.setView([6.25239070882758, -75.57365707863067], 3), i.addHash();
           var n = e.tileLayer(
             "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
             {
